@@ -35,7 +35,7 @@ ytalbum "URL_PLAYLIST" "ALBUM_FORZADO"
 ---
 
 
-## ⚠ Legal Notice and Disclaimer
+# Legal Notice and Disclaimer
 
 This script is an automation wrapper for **yt-dlp**, an open-source tool. Its sole purpose is to facilitate downloading content **for which the user holds the rights**, or that is distributed under licenses permitting download and redistribution (such as Creative Commons, public domain, or content with the author's express permission).
 
@@ -49,7 +49,7 @@ Using this script to download and convert content without authorization may cons
 
 ---
 
-## ⚠Aviso Legal y Descargo de Responsabilidad
+# Aviso Legal y Descargo de Responsabilidad
 
 Este script es una interfaz de automatización para **yt-dlp**, una herramienta de código abierto. Su única finalidad es facilitar la descarga de contenido **para el que el usuario posea los derechos**, o que se encuentre bajo licencias que permitan su descarga y redistribución (como Creative Commons, dominio público, o contenido con permiso expreso del autor).
 
