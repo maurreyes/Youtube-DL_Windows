@@ -28,10 +28,10 @@ A simple Windows batch + Python wrapper around [yt-dlp](https://github.com/yt-dl
 
 ## Usage
 
-```bat
+```
 ytalbum "URL_PLAYLIST"
-ytalbum "URL_PLAYLIST" "ALBUM_FORZADO"```
-
+ytalbum "URL_PLAYLIST" "ALBUM_FORZADO"
+```
 ---
 
 
